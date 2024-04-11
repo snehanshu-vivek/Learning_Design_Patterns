@@ -6,4 +6,3 @@ Design Patterns are categorised into three categories:
 2) Structural Design Pattern
 3) Behavioural Design Pattern
 
-
